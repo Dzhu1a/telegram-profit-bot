@@ -110,4 +110,3 @@ app.add_handler(conv_handler)
 
 print("✅ Бот запущено!")
 app.run_polling()
-
